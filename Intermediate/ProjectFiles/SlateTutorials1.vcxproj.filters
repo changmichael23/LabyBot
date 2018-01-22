@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SlateTutorials1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5965A574-EFF3-4719-8460-CFD10A0E9285}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SlateTutorials1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SlateTutorials1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8825BB14-0CF0-4809-BEEC-B3D124248EE6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SlateTutorials1">
+      <UniqueIdentifier>{8ECA4761-D6B9-4F91-A818-F956F7925455}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SlateTutorials1\BotPawn.cpp">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SlateTutorials1\BotPawn.h">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SlateTutorials1\cubeTest.cpp">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SlateTutorials1\cubeTest.h">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SlateTutorials1\MainMenuHUD.cpp">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SlateTutorials1\MainMenuHUD.h">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SlateTutorials1\MyGameModeBase.cpp">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SlateTutorials1\MyGameModeBase.h">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SlateTutorials1\Phase1Actor.cpp">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SlateTutorials1\Phase1Actor.h">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SlateTutorials1\SEndGame.cpp">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SlateTutorials1\SEndGame.h">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SlateTutorials1\SEnergyBar.cpp">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SlateTutorials1\SEnergyBar.h">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SlateTutorials1\SlateTutorials1.Build.cs">
+      <Filter>Source\SlateTutorials1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SlateTutorials1\SlateTutorials1.cpp">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SlateTutorials1\SlateTutorials1.h">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SlateTutorials1\SlateTutorials1GameModeBase.cpp">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SlateTutorials1\SlateTutorials1GameModeBase.h">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SlateTutorials1\SMainMenuUI.cpp">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SlateTutorials1\SMainMenuUI.h">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SlateTutorials1\SPhase1UI.cpp">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SlateTutorials1\SPhase1UI.h">
+      <Filter>Source\SlateTutorials1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
